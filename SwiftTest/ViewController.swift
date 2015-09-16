@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    //pogi
     @IBOutlet var nametextfield: UITextField!
     
     override func viewDidLoad() {
